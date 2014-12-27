@@ -3,5 +3,6 @@ function spotispaz {
   echo "alias spotify='osascript ~/SpotifyControl/SpotifyControl.scpt'" >> ~/.bash_profile
   while true; do
       spotify play/pause
+      sleep 0.5
   done
 }
