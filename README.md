@@ -1,7 +1,7 @@
 spotispaz
 =========
 
-shell script to make spotify track spaz out on mac by pausing and playing in an infinite loop
+shell script to make spotify track spaz out on mac by pausing and playing in an infinite loop with 0.5s intervals
 
 ## instructions
 
